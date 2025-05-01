@@ -120,7 +120,7 @@ function App() {
           </button>
         )}
       </form>
-      <table border="1" cellPadding="8" cellSpacing="0" width="100%">
+      {/* <table border="1" cellPadding="8" cellSpacing="0" width="100%">
         <thead>
           <tr>
             <th>Name</th>
@@ -151,7 +151,7 @@ function App() {
             </tr>
           ))}
         </tbody>
-      </table>
+      </table> */}
     </div>
   );
 }
